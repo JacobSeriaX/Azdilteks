@@ -1,0 +1,258 @@
+{
+    "tshirts": {
+        "categoryImage": "images/tshirts.jpg",
+        "products": [
+            {
+                "name": "Футболка Классическая",
+                "description": "Классическая футболка из 100% хлопка.",
+                "price": 500,
+                "image": "images/tshirts1.jpg",
+                "sizes": ["S", "M", "L", "XL"],
+                "colors": ["#FFFFFF", "#000000", "#FF0000", "#0000FF"],
+                "notes": "Без дополнительных изменений."
+            },
+            {
+                "name": "Футболка Спортивная",
+                "description": "Спортивная футболка с влагоотводящими свойствами.",
+                "price": 600,
+                "image": "images/tshirts2.jpg",
+                "sizes": ["M", "L", "XL", "XXL"],
+                "colors": ["#00FF00", "#FFA500", "#800080", "#FFFF00"],
+                "notes": "Добавить логотип компании на грудь."
+            },
+            {
+                "name": "Футболка С V-образным Вырезом",
+                "description": "Футболка с V-образным вырезом для дополнительного комфорта.",
+                "price": 550,
+                "image": "images/tshirts3.jpg",
+                "sizes": ["S", "M", "L", "XL"],
+                "colors": ["#FFD700", "#00CED1", "#FF69B4", "#808080"],
+                "notes": "Указать цвет нити при шитье."
+            }
+        ]
+    },
+    "pants": {
+        "categoryImage": "images/pants.jpg",
+        "products": [
+            {
+                "name": "Брюки Униформа",
+                "description": "Удобные брюки для рабочей униформы.",
+                "price": 800,
+                "image": "images/pants1.jpg",
+                "sizes": ["S", "M", "L", "XL"],
+                "colors": ["#808080", "#000000", "#FFFFFF"],
+                "notes": "Усиленные швы на коленях."
+            },
+            {
+                "name": "Брюки Спортивные",
+                "description": "Легкие спортивные брюки с эластичной талией.",
+                "price": 900,
+                "image": "images/pants2.jpg",
+                "sizes": ["M", "L", "XL", "XXL"],
+                "colors": ["#FF69B4", "#00CED1", "#FFD700"],
+                "notes": "Добавить карманы с молнией."
+            },
+            {
+                "name": "Брюки Классические",
+                "description": "Классические брюки для офиса и повседневной носки.",
+                "price": 750,
+                "image": "images/pants3.jpg",
+                "sizes": ["S", "M", "L", "XL"],
+                "colors": ["#2F4F4F", "#696969", "#A9A9A9"],
+                "notes": "Использовать ткань с антимикробной обработкой."
+            }
+        ]
+    },
+    "jackets": {
+        "categoryImage": "images/jackets.jpg",
+        "products": [
+            {
+                "name": "Бушлат Летний",
+                "description": "Легкий бушлат для теплой погоды.",
+                "price": 1500,
+                "image": "images/jackets1.jpg",
+                "sizes": ["M", "L", "XL"],
+                "colors": ["#CCCCCC", "#333333"],
+                "notes": "Добавить капюшон."
+            },
+            {
+                "name": "Бушлат Зимний",
+                "description": "Теплый зимний бушлат с утеплителем.",
+                "price": 1600,
+                "image": "images/jackets2.jpg",
+                "sizes": ["L", "XL", "XXL"],
+                "colors": ["#000000", "#FFFFFF", "#FF0000"],
+                "notes": "Использовать водоотталкивающую ткань."
+            },
+            {
+                "name": "Бушлат Водоотталкивающий",
+                "description": "Бушлат с защитой от дождя и ветра.",
+                "price": 1700,
+                "image": "images/jackets3.jpg",
+                "sizes": ["M", "L", "XL", "XXL"],
+                "colors": ["#1E90FF", "#32CD32", "#FFD700"],
+                "notes": "Добавить отражающие элементы для безопасности."
+            }
+        ]
+    },
+    "chefs": {
+        "categoryImage": "images/chefs.jpg",
+        "products": [
+            {
+                "name": "Поварской Китель",
+                "description": "Поварской китель из прочного материала.",
+                "price": 1200,
+                "image": "images/chefs1.jpg",
+                "sizes": ["S", "M", "L", "XL"],
+                "colors": ["#FFFFFF", "#FFEB3B"],
+                "notes": "Добавить карманы для инструментов."
+            },
+            {
+                "name": "Поварская Фартук",
+                "description": "Фартук для поваров с регулируемым поясом.",
+                "price": 700,
+                "image": "images/chefs2.jpg",
+                "sizes": ["One Size"],
+                "colors": ["#FF6347", "#2E8B57"],
+                "notes": "Использовать ткань с высокой устойчивостью к пятнам."
+            },
+            {
+                "name": "Поварская Шапочка",
+                "description": "Удобная шапочка для кухни.",
+                "price": 300,
+                "image": "images/chefs3.jpg",
+                "sizes": ["One Size"],
+                "colors": ["#FFFFFF", "#FFD700"],
+                "notes": "Добавить логотип на шапочку."
+            }
+        ]
+    },
+    "hats": {
+        "categoryImage": "images/hats.jpg",
+        "products": [
+            {
+                "name": "Головной убор Стандарт",
+                "description": "Стандартный головной убор для работников.",
+                "price": 400,
+                "image": "images/hats1.jpg",
+                "sizes": ["One Size"],
+                "colors": ["#000000", "#FFFFFF"],
+                "notes": "Добавить вентиляционные отверстия."
+            },
+            {
+                "name": "Головной убор С Защитой От Солнца",
+                "description": "Головной убор с широкими полями для защиты от солнца.",
+                "price": 500,
+                "image": "images/hats2.jpg",
+                "sizes": ["One Size"],
+                "colors": ["#FFD700", "#FF8C00"],
+                "notes": "Использовать светоотражающие элементы."
+            },
+            {
+                "name": "Головной убор С Вентилируемыми Решетками",
+                "description": "Головной убор с вентиляционными решетками для лучшего охлаждения.",
+                "price": 450,
+                "image": "images/hats3.jpg",
+                "sizes": ["One Size"],
+                "colors": ["#2E8B57", "#4682B4"],
+                "notes": "Использовать легкие материалы."
+            }
+        ]
+    },
+    "shoes": {
+        "categoryImage": "images/shoes.jpg",
+        "products": [
+            {
+                "name": "Обувь Рабочая",
+                "description": "Удобная рабочая обувь с защитой.",
+                "price": 1200,
+                "image": "images/shoes1.jpg",
+                "sizes": ["42", "43", "44", "45"],
+                "colors": ["#000000", "#654321"],
+                "notes": "Добавить стельки с антимикробной обработкой."
+            },
+            {
+                "name": "Обувь Спортивная",
+                "description": "Легкая спортивная обувь для активных работников.",
+                "price": 1000,
+                "image": "images/shoes2.jpg",
+                "sizes": ["40", "41", "42", "43", "44"],
+                "colors": ["#FFFFFF", "#00FF00", "#FF0000"],
+                "notes": "Использовать дышащие материалы."
+            },
+            {
+                "name": "Обувь Водоотталкивающая",
+                "description": "Обувь с водоотталкивающей пропиткой для влажных условий.",
+                "price": 1300,
+                "image": "images/shoes3.jpg",
+                "sizes": ["43", "44", "45", "46"],
+                "colors": ["#4682B4", "#708090"],
+                "notes": "Добавить нескользящую подошву."
+            }
+        ]
+    },
+    "vests": {
+        "categoryImage": "images/vests.jpg",
+        "products": [
+            {
+                "name": "Жилет Свисток",
+                "description": "Жилет с встроенным свистком для безопасности.",
+                "price": 800,
+                "image": "images/vests1.jpg",
+                "sizes": ["S", "M", "L", "XL"],
+                "colors": ["#FFD700", "#00FFFF"],
+                "notes": "Добавить карманы для инструментов."
+            },
+            {
+                "name": "Жилет Светоотражающий",
+                "description": "Жилет с светоотражающими элементами для повышенной видимости.",
+                "price": 900,
+                "image": "images/vests2.jpg",
+                "sizes": ["M", "L", "XL", "XXL"],
+                "colors": ["#FFA500", "#FF4500"],
+                "notes": "Использовать высокоотражающие материалы."
+            },
+            {
+                "name": "Жилет Спортивный",
+                "description": "Легкий спортивный жилет для активных работ.",
+                "price": 750,
+                "image": "images/vests3.jpg",
+                "sizes": ["S", "M", "L"],
+                "colors": ["#32CD32", "#1E90FF"],
+                "notes": "Добавить вентиляционные отверстия."
+            }
+        ]
+    },
+    "overalls": {
+        "categoryImage": "images/overalls.jpg",
+        "products": [
+            {
+                "name": "Комбинезон Рабочий",
+                "description": "Прочный рабочий комбинезон для тяжелых условий.",
+                "price": 1800,
+                "image": "images/overalls1.jpg",
+                "sizes": ["S", "M", "L"],
+                "colors": ["#808080", "#0000FF"],
+                "notes": "Добавить усиленные колени."
+            },
+            {
+                "name": "Комбинезон Спортивный",
+                "description": "Легкий спортивный комбинезон для активных движений.",
+                "price": 1600,
+                "image": "images/overalls2.jpg",
+                "sizes": ["M", "L", "XL", "XXL"],
+                "colors": ["#FF69B4", "#00CED1"],
+                "notes": "Использовать дышащие материалы."
+            },
+            {
+                "name": "Комбинезон Водоотталкивающий",
+                "description": "Комбинезон с водоотталкивающей пропиткой для влажных условий.",
+                "price": 2000,
+                "image": "images/overalls3.jpg",
+                "sizes": ["L", "XL", "XXL"],
+                "colors": ["#A9A9A9", "#2F4F4F"],
+                "notes": "Добавить водоотталкивающую обработку."
+            }
+        ]
+    }
+}
